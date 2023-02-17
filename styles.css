@@ -1,0 +1,42 @@
+.main2 {
+    display: flex
+}
+.rectangle {
+    height: 200px;
+    width: 400px;
+    background-color: #555;
+  }
+.square1 {
+    height: 100px;
+    width: 100px;
+    background-color: pink;  
+    
+}
+.right1{
+    display: flex;
+}
+.square2 {
+    height: 100px;
+    width: 100px;
+    background-color: pink;  
+}
+.right2{
+    display: flex;
+}
+.square3 {
+    height: 100px;
+    width: 100px;
+    background-color: pink;  
+}
+.right3{
+    display: flex;
+}
+
+.square4 {
+    height: 100px;
+    width: 100px;
+    background-color: pink;   
+}
+.right4{
+    display: flex;
+}
